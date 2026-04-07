@@ -451,6 +451,29 @@ a, button, [role='button'], input, textarea, select {
   margin: 0 auto 2.5rem;
 }
 
+.hero-beta-notice {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.6rem;
+  background: color-mix(in srgb, var(--color-primary) 8%, transparent);
+  border: 1px solid color-mix(in srgb, var(--color-primary) 20%, transparent);
+  border-radius: 2rem;
+  padding: 0.5rem 1.25rem;
+  font-size: 0.875rem;
+  color: var(--color-text-muted);
+  margin-bottom: 2rem;
+}
+
+.beta-badge {
+  background: var(--color-primary);
+  color: #fff;
+  font-size: 0.75rem;
+  font-weight: 700;
+  padding: 0.15rem 0.6rem;
+  border-radius: 1rem;
+  letter-spacing: 0.02em;
+}
+
 .hero-cta {
   display: flex;
   flex-wrap: wrap;
