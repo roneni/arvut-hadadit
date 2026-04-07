@@ -1,0 +1,274 @@
+[
+  {
+    "name": "עזר מציון",
+    "nameEn": "Ezer Mizion",
+    "category": "בריאות",
+    "description": "עמותה ישראלית המספקת שירותי בריאות, תמיכה לחולים ולמשפחותיהם, ומפעילה את מאגר תורמי מח העצם הגדול בעולם.",
+    "website": "https://www.ezermizion.org",
+    "guidestarUrl": "https://www.guidestar.org.il/organization/580036498"
+  },
+  {
+    "name": "יד שרה",
+    "nameEn": "Yad Sarah",
+    "category": "קשישים",
+    "description": "הארגון הגדול בישראל להשאלת ציוד רפואי, הסעות, טיפול ביתי ושירותים לקשישים ולאנשים עם מוגבלויות.",
+    "website": "https://www.yadsarah.org.il",
+    "guidestarUrl": "https://www.guidestar.org.il/organization/580108578"
+  },
+  {
+    "name": "ער\"ן",
+    "nameEn": "ERAN",
+    "category": "בריאות",
+    "description": "עזרה ראשונה נפשית — קו חירום ארצי לסיוע רגשי ומניעת התאבדויות, פועל 24/7 עם מתנדבים מקצועיים.",
+    "website": "https://www.eran.org.il",
+    "guidestarUrl": "https://www.guidestar.org.il/organization/580042645"
+  },
+  {
+    "name": "קו לחיים",
+    "nameEn": "Kav LaHaim",
+    "category": "בריאות",
+    "description": "קו תמיכה רגשית לבני נוער ומבוגרים במצבי משבר, מפעיל שיחות אישיות וקבוצות תמיכה.",
+    "website": "https://www.kavlahayim.org.il",
+    "guidestarUrl": "https://www.guidestar.org.il/organization/580298760"
+  },
+  {
+    "name": "עמותת אלו\"ט",
+    "nameEn": "ALUT",
+    "category": "נכים ומוגבלויות",
+    "description": "האגודה הישראלית לאוטיזם — דוגלת בזכויות אנשים על הספקטרום האוטיסטי ומספקת שירותי שיקום ותמיכה.",
+    "website": "https://www.alut.org.il",
+    "guidestarUrl": "https://www.guidestar.org.il/organization/580042926"
+  },
+  {
+    "name": "בזכות",
+    "nameEn": "Bizchut",
+    "category": "נכים ומוגבלויות",
+    "description": "מרכז לזכויות אנשים עם מוגבלויות בישראל — ייצוג משפטי, הסברה ומאבק לשוויון זכויות.",
+    "website": "https://www.bizchut.org.il",
+    "guidestarUrl": "https://www.guidestar.org.il/organization/580376665"
+  },
+  {
+    "name": "כל זכות",
+    "nameEn": "Kol Zchut",
+    "category": "זכויות משפטיות",
+    "description": "אתר המידע המקיף ביותר על זכויות אזרחיות בישראל — מאגר ידע פתוח ונגיש לכל אזרח.",
+    "website": "https://www.kolzchut.org.il",
+    "guidestarUrl": "https://www.guidestar.org.il/organization/580481523"
+  },
+  {
+    "name": "הפדרציה הישראלית לבריאות הנפש",
+    "nameEn": "IFMH",
+    "category": "בריאות",
+    "description": "ארגון גג לעמותות בריאות הנפש בישראל — קידום זכויות מטופלים, הסברה והכשרות מקצועיות.",
+    "website": "https://www.ifmh.org.il",
+    "guidestarUrl": "https://www.guidestar.org.il/organization/580098829"
+  },
+  {
+    "name": "עמותת חיל\"ן",
+    "nameEn": "HILN",
+    "category": "חיילים ומילואים",
+    "description": "ליווי ותמיכה בחיילים בודדים לפני, במהלך ואחרי השירות הצבאי — דיור, השכלה ומיצוי זכויות.",
+    "website": "https://www.lone-soldiers.co.il",
+    "guidestarUrl": "https://www.guidestar.org.il/organization/580278739"
+  },
+  {
+    "name": "ידידים",
+    "nameEn": "Yedidim",
+    "category": "רווחה כללית",
+    "description": "עזרה קהילתית בדרכים ובחירום — רשת מתנדבים ענקית לסיוע הדדי ברחבי ישראל.",
+    "website": "https://www.yedidim.org",
+    "guidestarUrl": "https://www.guidestar.org.il/organization/580493726"
+  },
+  {
+    "name": "פתחון לב",
+    "nameEn": "Ptichat Lev",
+    "category": "רווחה כללית",
+    "description": "מאבק בעוני ומיצוי זכויות — סיוע לעשרות אלפי משפחות בישראל למצות זכויות סוציאליות ותעסוקתיות.",
+    "website": "https://www.p-l.org.il",
+    "guidestarUrl": "https://www.guidestar.org.il/organization/580264911"
+  },
+  {
+    "name": "לקט ישראל",
+    "nameEn": "Leket Israel",
+    "category": "רווחה כללית",
+    "description": "בנק המזון הלאומי — הצלת עודפי מזון והפצתם לנזקקים דרך רשת של מאות עמותות שותפות.",
+    "website": "https://www.leket.org",
+    "guidestarUrl": "https://www.guidestar.org.il/organization/580420456"
+  },
+  {
+    "name": "עזרה",
+    "nameEn": "EZRA",
+    "category": "רווחה כללית",
+    "description": "מתן שירותים סוציאליים — חלוקת מזון, ביגוד, סיוע כלכלי ותמיכה רגשית למשפחות במצוקה.",
+    "website": "https://www.ezra.org.il",
+    "guidestarUrl": "https://www.guidestar.org.il/organization/580028305"
+  },
+  {
+    "name": "נעמ\"ת",
+    "nameEn": "Naamat",
+    "category": "חינוך",
+    "description": "תנועת הנשים הגדולה בישראל — חינוך, קידום נשים, מעונות יום, ייעוץ משפטי והכשרה מקצועית.",
+    "website": "https://www.naamat.org.il",
+    "guidestarUrl": "https://www.guidestar.org.il/organization/580008521"
+  },
+  {
+    "name": "ויצו",
+    "nameEn": "WIZO",
+    "category": "חינוך",
+    "description": "ההסתדרות הציונית הבינלאומית של נשים — מעונות יום, פנימיות נוער, מרכזי קהילה וקידום מעמד האישה.",
+    "website": "https://www.wizo.org.il",
+    "guidestarUrl": "https://www.guidestar.org.il/organization/580008497"
+  },
+  {
+    "name": "האגודה לזכויות האזרח",
+    "nameEn": "ACRI",
+    "category": "זכויות משפטיות",
+    "description": "שמירה על זכויות אדם ואזרח בישראל — ייצוג משפטי, חקיקה, הסברה ומעקב אחר הפרות זכויות.",
+    "website": "https://www.acri.org.il",
+    "guidestarUrl": "https://www.guidestar.org.il/organization/580076700"
+  },
+  {
+    "name": "הג'וינט-אשל",
+    "nameEn": "JDC-Eshel",
+    "category": "קשישים",
+    "description": "שיפור איכות החיים של קשישים בישראל — פיתוח שירותים קהילתיים, מחקר ותכניות חדשניות.",
+    "website": "https://www.eshelnet.org.il",
+    "guidestarUrl": "https://www.guidestar.org.il/organization/580052800"
+  },
+  {
+    "name": "עמותת ש\"י",
+    "nameEn": "SHI",
+    "category": "רווחה כללית",
+    "description": "שירות ייעוץ לאזרח — סיוע במיצוי זכויות, ייעוץ בנושאי ביטוח לאומי, מס הכנסה ושירותים ממשלתיים.",
+    "website": "https://www.shi.org.il",
+    "guidestarUrl": "https://www.guidestar.org.il/organization/580257428"
+  },
+  {
+    "name": "סהר",
+    "nameEn": "Sahar",
+    "category": "בריאות",
+    "description": "תמיכה רגשית מקוונת — צ'אט ופורום לסיוע נפשי לבני נוער ומבוגרים, פועל בעברית ובערבית.",
+    "website": "https://www.sahar.org.il",
+    "guidestarUrl": "https://www.guidestar.org.il/organization/580430018"
+  },
+  {
+    "name": "עמותת אדם",
+    "nameEn": "Adam Association",
+    "category": "זכויות משפטיות",
+    "description": "קידום זכויות עובדים — ייצוג משפטי, הדרכה והגנה על זכויות עבודה לאוכלוסיות מוחלשות.",
+    "website": "https://www.adam.org.il",
+    "guidestarUrl": "https://www.guidestar.org.il/organization/580350197"
+  },
+  {
+    "name": "ביחד",
+    "nameEn": "B'Yachad",
+    "category": "רווחה כללית",
+    "description": "פעילות קהילתית לחיזוק הערבות ההדדית — פרויקטים חברתיים, דו-קיום ומעורבות אזרחית.",
+    "website": "https://www.beyachad.org.il",
+    "guidestarUrl": "https://www.guidestar.org.il/organization/580401092"
+  },
+  {
+    "name": "מועדון המתנדבים",
+    "nameEn": "Volunteers Club",
+    "category": "התנדבות",
+    "description": "פלטפורמה המחברת מתנדבים עם ארגונים — הטבות למתנדבים, קורסים והכרה ממלכתית בהתנדבות.",
+    "website": "https://www.voluteers-club.org.il",
+    "guidestarUrl": "https://www.guidestar.org.il/organization/580484360"
+  },
+  {
+    "name": "רוח טובה - האגודה להתנדבות",
+    "nameEn": "Ruach Tova - Volunteering Association",
+    "category": "התנדבות",
+    "description": "ארגון הגג להתנדבות בישראל — ריכוז הזדמנויות התנדבות, הכשרה ופיתוח תרבות של נתינה.",
+    "website": "https://www.ruachtova.org.il",
+    "guidestarUrl": "https://www.guidestar.org.il/organization/580283085"
+  },
+  {
+    "name": "מכון אביב",
+    "nameEn": "Aviv Institute",
+    "category": "קשישים",
+    "description": "מרכז לחקר הזדקנות ושיפור איכות החיים של הגיל השלישי — מחקר, הכשרות ותכניות קהילתיות.",
+    "website": "https://www.avivheb.org.il",
+    "guidestarUrl": "https://www.guidestar.org.il/organization/580188844"
+  },
+  {
+    "name": "אופק",
+    "nameEn": "Ofek",
+    "category": "התנדבות",
+    "description": "עידוד התנדבות בקרב צעירים — פרויקטים חברתיים, שנת שירות ומנהיגות צעירה ברחבי הארץ.",
+    "website": "https://www.ofek-vol.org.il",
+    "guidestarUrl": "https://www.guidestar.org.il/organization/580383323"
+  },
+  {
+    "name": "חסד",
+    "nameEn": "Chesed",
+    "category": "רווחה כללית",
+    "description": "מתן סיוע חומרי ורגשי למשפחות במצוקה — חלוקת מזון, ביגוד, ריהוט ותמיכה שוטפת.",
+    "website": "https://www.chesed.org.il",
+    "guidestarUrl": "https://www.guidestar.org.il/organization/580336519"
+  },
+  {
+    "name": "הסדנא החברתית",
+    "nameEn": "Social Workshop",
+    "category": "רווחה כללית",
+    "description": "פיתוח יזמות חברתית — ליווי ארגונים חברתיים, הכשרות, האצת פרויקטים ופיתוח מנהיגות.",
+    "website": "https://www.sadna.org.il",
+    "guidestarUrl": "https://www.guidestar.org.il/organization/580365021"
+  },
+  {
+    "name": "עמותת תבת - ג'וינט",
+    "nameEn": "Tevet/JDC",
+    "category": "רווחה כללית",
+    "description": "קידום תעסוקה לאוכלוסיות מוחלשות — הכשרה מקצועית, ליווי תעסוקתי ושילוב בשוק העבודה.",
+    "website": "https://www.jdc-tevet.org.il",
+    "guidestarUrl": "https://www.guidestar.org.il/organization/580423450"
+  },
+  {
+    "name": "עמותת עלם",
+    "nameEn": "Elem",
+    "category": "חינוך",
+    "description": "סיוע לנוער וצעירים בסיכון — מרכזי סיוע, פעילות רחוב, ייעוץ מקוון ושיקום.",
+    "website": "https://www.elem.org.il",
+    "guidestarUrl": "https://www.guidestar.org.il/organization/580185113"
+  },
+  {
+    "name": "הוועד למלחמה בסרטן",
+    "nameEn": "Israel Cancer Association",
+    "category": "בריאות",
+    "description": "מניעה, גילוי מוקדם ומחקר סרטן — תמיכה בחולים ומשפחותיהם, הסברה ומימון מחקרים.",
+    "website": "https://www.cancer.org.il",
+    "guidestarUrl": "https://www.guidestar.org.il/organization/580034220"
+  },
+  {
+    "name": "ארגון נפגעי טרור",
+    "nameEn": "Terror Victims Organization",
+    "category": "נפגעי טרור",
+    "description": "ייצוג ותמיכה בנפגעי פעולות טרור — מיצוי זכויות, ליווי משפטי, שיקום ותמיכה רגשית.",
+    "website": "https://www.terror-victims.org.il",
+    "guidestarUrl": "https://www.guidestar.org.il/organization/580219789"
+  },
+  {
+    "name": "עמותת נתיב למשוחרר",
+    "nameEn": "Nativ for Veterans",
+    "category": "חיילים ומילואים",
+    "description": "סיוע למשוחררי צה\"ל — מיצוי זכויות, ליווי תעסוקתי, השכלה ושילוב חזרה בחברה האזרחית.",
+    "website": "https://www.nativ.org.il",
+    "guidestarUrl": "https://www.guidestar.org.il/organization/580377606"
+  },
+  {
+    "name": "עמותת עולים ביחד",
+    "nameEn": "Olim Together",
+    "category": "עולים חדשים",
+    "description": "סיוע לעולים חדשים בקליטה — ייעוץ, הכוונה תעסוקתית, לימוד עברית ושילוב בקהילה.",
+    "website": "https://www.olimtogether.org.il",
+    "guidestarUrl": "https://www.guidestar.org.il/organization/580501551"
+  },
+  {
+    "name": "נפש בנפש",
+    "nameEn": "Nefesh B'Nefesh",
+    "category": "עולים חדשים",
+    "description": "סיוע בעלייה מאמריקה ובריטניה — ליווי בתהליך הביורוקרטי, תעסוקה, דיור וקליטה.",
+    "website": "https://www.nbn.org.il",
+    "guidestarUrl": "https://www.guidestar.org.il/organization/580401266"
+  }
+]
