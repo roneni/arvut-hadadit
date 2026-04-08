@@ -9,7 +9,7 @@
   // ---- THEME TOGGLE ----
   const themeToggle = document.querySelector('[data-theme-toggle]');
   const root = document.documentElement;
-  let currentTheme = window.matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light';
+  let currentTheme = localStorage.getItem('arvut-theme') || (window.matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light');
   root.setAttribute('data-theme', currentTheme);
   updateThemeIcon();
 
@@ -17,6 +17,7 @@
     themeToggle.addEventListener('click', () => {
       currentTheme = currentTheme === 'dark' ? 'light' : 'dark';
       root.setAttribute('data-theme', currentTheme);
+      localStorage.setItem('arvut-theme', currentTheme);
       themeToggle.setAttribute('aria-label', currentTheme === 'dark' ? 'מעבר למצב בהיר' : 'מעבר למצב כהה');
       updateThemeIcon();
     });
@@ -126,6 +127,10 @@
     })
     .catch(err => {
       console.error('Failed to load organizations:', err);
+      const grid = document.getElementById('org-grid');
+      if (grid) {
+        grid.innerHTML = '<p class="org-load-error" role="alert">שגיאה בטעינת הארגונים. נסו לרענן את הדף.</p>';
+      }
     });
 
   function renderFilterChips() {
@@ -189,7 +194,7 @@
         <div class="org-card-header">
           <div>
             <div class="org-name">${org.name}</div>
-            <div class="org-name-en">${org.nameEn}</div>
+            <div class="org-name-en" lang="en">${org.nameEn}</div>
           </div>
           <span class="org-category">${org.category}</span>
         </div>
